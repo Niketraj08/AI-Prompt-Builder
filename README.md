@@ -11,7 +11,6 @@ A full-stack MERN application designed to help users generate, manage, and optim
 - **Modern UI/UX**: Built with React, Tailwind CSS, and Framer Motion for smooth animations.
 
 ---
-
 ## 🛠️ Tech Stack
 
 - **Frontend**: React.js, Tailwind CSS, Framer Motion, Axios, React Router.
