@@ -1,4 +1,5 @@
 # AI Prompt Builder 🚀
+
 A full-stack MERN application designed to help users generate, manage, and optimize AI prompts for various platforms like ChatGPT, Midjourney, and Claude.
 
 ## ✨ Features
